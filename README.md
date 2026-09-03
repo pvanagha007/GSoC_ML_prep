@@ -2,3 +2,4 @@
 
 * Learning to use
                 -> Scikit , Pandas
+                -> Numpy
